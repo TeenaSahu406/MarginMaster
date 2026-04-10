@@ -416,7 +416,7 @@ const MarginMaster = () => {
             <h1 style={{ fontFamily: 'Barlow Condensed', fontWeight: 900, fontSize: logoFontSize, margin: 0 }}>
               Margin <span style={{ color: '#00e5c0' }}>Master</span>
             </h1>
-            <p style={{ fontSize: 12, color: '#6b7280', margin: 0 }}>SVM Demo · Teena &amp; Amar</p>
+            <p style={{ fontSize: 12, color: '#6b7280', margin: 0 }}>SVM Demo · by Teena</p>
           </div>
         </div>
 
